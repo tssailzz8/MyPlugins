@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/blob/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkInstall": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/blob/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/blob/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1613968014"
     }
