@@ -1,3 +1,1 @@
-Grammernatzi's Dalamud Plugins
-
-Drop `https://github.com/grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
+在试验性功能里面添加`https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/pluginmaster.json` 地址
