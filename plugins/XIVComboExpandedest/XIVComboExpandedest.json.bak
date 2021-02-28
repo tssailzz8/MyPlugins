@@ -3,7 +3,7 @@
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
   "AssemblyVersion": "1.0.7.7",
-  "Description": "一个combo扩展插件.",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
   "DalamudApiLevel": 2,
