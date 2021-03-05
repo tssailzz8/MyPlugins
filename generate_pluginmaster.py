@@ -51,7 +51,7 @@ def extract_manifests():
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
             continue
-        plugin_name = dirpath.split('/')[-1]
+        plugin_name = dirpath.split('\\')[-1]
         latest_zip = f'{dirpath}/latest.zip'
         with ZipFile(latest_zip) as z:
             manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8'))
