@@ -1,9 +1,9 @@
 {
-  "Author": "attick, daemitus, grammernatzi",
+  "Author": "attick, daemitus, alymphocyte, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.0.8.4",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+  "AssemblyVersion": "1.0.8.5",
+  "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
   "DalamudApiLevel": 2,
