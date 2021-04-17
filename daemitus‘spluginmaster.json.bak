@@ -68,23 +68,6 @@
         "LastUpdated": "1615944186"
     },
     {
-        "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
-        "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.0.3.12",
-        "RepoUrl": "https://hub.fastgit.org/daemitus/XIVCombo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://hub.fastgit.org/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://hub.fastgit.org/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://hub.fastgit.org/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1615944186"
-    },
-    {
         "Author": "daemitus",
         "Name": "ezMiniCactpot",
         "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",

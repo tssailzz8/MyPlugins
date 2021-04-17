@@ -27,13 +27,13 @@
         "Tags": [
             "Zoom"
         ],
-        "DalamudApiLevel": "2",
+        "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1614953771"
+        "LastUpdated": "1618669706"
     }
 ]
