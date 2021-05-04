@@ -5,7 +5,7 @@
 	"Description": "Set max zoom",
 	"Tags": ["Zoom"],
 	"RepoUrl": "",
-	"AssemblyVersion": "1.0.0.3",
+	"AssemblyVersion": "1.0.0.4",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 3
 }
