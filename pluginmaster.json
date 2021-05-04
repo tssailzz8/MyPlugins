@@ -21,7 +21,7 @@
         "Name": "Zoom",
         "Description": "Set max zoom",
         "InternalName": "Zoom",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -34,6 +34,6 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620131954"
+        "LastUpdated": "1620134252"
     }
 ]
