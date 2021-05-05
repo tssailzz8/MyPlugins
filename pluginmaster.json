@@ -4,7 +4,7 @@
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.0.9.7",
+        "AssemblyVersion": "1.0.9.8",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620127830"
+        "LastUpdated": "1620227721"
     },
     {
         "Author": "NR",
@@ -34,6 +34,6 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620198422"
+        "LastUpdated": "1620198616"
     }
 ]
