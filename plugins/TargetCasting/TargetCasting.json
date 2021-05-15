@@ -1,0 +1,11 @@
+{
+	"Author": "NR",
+	"Name": "TargetCasting",
+	"InternalName": "TargetCasting",
+	"Description": "目标读条",
+	"Tags": ["TargetCasting"],
+	"RepoUrl": "",
+	"AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 3
+}

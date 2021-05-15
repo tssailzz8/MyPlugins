@@ -1,5 +1,25 @@
 [
     {
+        "Author": "NR",
+        "Name": "TargetCasting",
+        "Description": "\u76ee\u6807\u8bfb\u6761",
+        "InternalName": "TargetCasting",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "TargetCasting"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
+        "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1621045378"
+    },
+    {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
