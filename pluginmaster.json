@@ -2,7 +2,7 @@
     {
         "Author": "NR",
         "Name": "TargetCasting",
-        "Description": "\u76ee\u6807\u8bfb\u6761",
+        "Description": "\u76ee\u6807\u8bfb\u6761/n\u53ef\u81ea\u884c\u627e\u5b57\u4f53\u66ff\u6362\u540c\u76ee\u5f55\u4e0bttf\u6587\u4ef6",
         "InternalName": "TargetCasting",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1621045378"
+        "LastUpdated": "1621438258"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.2",
+        "AssemblyVersion": "1.1.0.3",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620825340"
+        "LastUpdated": "1621438306"
     },
     {
         "Author": "NR",

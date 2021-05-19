@@ -2,7 +2,7 @@
 	"Author": "NR",
 	"Name": "TargetCasting",
 	"InternalName": "TargetCasting",
-	"Description": "目标读条",
+	"Description": "目标读条/n可自行找字体替换同目录下ttf文件",
 	"Tags": ["TargetCasting"],
 	"RepoUrl": "",
 	"AssemblyVersion": "1.0.0.0",
