@@ -4,7 +4,7 @@
         "Name": "TargetCasting",
         "Description": "\u76ee\u6807\u8bfb\u6761/n\u53ef\u81ea\u884c\u627e\u5b57\u4f53\u66ff\u6362\u540c\u76ee\u5f55\u4e0bttf\u6587\u4ef6",
         "InternalName": "TargetCasting",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1621438258"
+        "LastUpdated": "1621439447"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
