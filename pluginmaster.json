@@ -11,11 +11,11 @@
             "DrawCure"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/DrawCure/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1622477891"
     },
@@ -31,11 +31,11 @@
             "TargetCasting"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/TargetCasting/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/TargetCasting/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/TargetCasting/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1621439447"
     },
@@ -48,11 +48,11 @@
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1621438306"
     },
@@ -68,11 +68,11 @@
             "Zoom"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/Zoom/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/Zoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/tree/master/plugins/Zoom/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1622477832"
     }
