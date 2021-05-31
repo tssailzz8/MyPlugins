@@ -4,7 +4,7 @@
         "Name": "DrawCure",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://gitee.com/zhu_jun_long/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622436251"
+        "LastUpdated": "1622439017"
     },
     {
         "Author": "NR",
