@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<TriggernometryExport Version="1">
+  <ExportedFolder Id="45787854-e2a1-4805-9697-0ec9b3afd7b2" Name="鼠标移动" Enabled="true">
+    <Folders />
+    <Triggers>
+      <Trigger Enabled="true" Sequential="True" Name="获取" Id="becbc02d-cb5f-4480-9954-8e301c4f4af6" RegularExpression="获取">
+        <Actions>
+          <Action OrderNumber="1" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="x" VariableExpression="${_ffxivparty[${_ffxivplayer}].x}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+          <Action OrderNumber="2" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="y" VariableExpression="${_ffxivparty[${_ffxivplayer}].y}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+          <Action OrderNumber="3" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="z" VariableExpression="${_ffxivparty[${_ffxivplayer}].z}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+          <Action OrderNumber="4" LogLevel="-1" NamedCallbackName="DoTextCommand" NamedCallbackParam="/zoom mouse ${var:x},${var:y},${var:z}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="NamedCallback">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+        </Actions>
+        <Condition Enabled="false" Grouping="Or" />
+        <Conditions />
+      </Trigger>
+      <Trigger Enabled="true" Name="获取2" Id="6f5f31f8-6a8a-43c2-af06-89b0826afbf7" RegularExpression="^.{15}00:0001:坐标X:(?&lt;x&gt;.*?) Y:(?&lt;y&gt;.*?)$">
+        <Actions>
+          <Action OrderNumber="1" LogLevel="-1" MouseX="${x}" MouseY="${y}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Mouse">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+        </Actions>
+        <Condition Enabled="false" Grouping="Or" />
+        <Conditions />
+      </Trigger>
+    </Triggers>
+  </ExportedFolder>
+</TriggernometryExport>
