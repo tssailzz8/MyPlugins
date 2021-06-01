@@ -4,7 +4,7 @@
         "Name": "DrawCure",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,27 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622477891"
-    },
-    {
-        "Author": "NR",
-        "Name": "TargetCasting",
-        "Description": "\u76ee\u6807\u8bfb\u6761/n\u53ef\u81ea\u884c\u627e\u5b57\u4f53\u66ff\u6362\u540c\u76ee\u5f55\u4e0bttf\u6587\u4ef6",
-        "InternalName": "TargetCasting",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "TargetCasting"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/TargetCasting/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1621439447"
+        "LastUpdated": "1622524888"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
@@ -61,7 +41,7 @@
         "Name": "Zoom",
         "Description": "Set max zoom",
         "InternalName": "Zoom",
-        "AssemblyVersion": "1.0.0.7",
+        "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -74,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622477832"
+        "LastUpdated": "1622524840"
     }
 ]
