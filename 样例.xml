@@ -3,37 +3,55 @@
   <ExportedFolder Id="45787854-e2a1-4805-9697-0ec9b3afd7b2" Name="鼠标移动" Enabled="true">
     <Folders />
     <Triggers>
-      <Trigger Enabled="true" Sequential="True" Name="获取" Id="becbc02d-cb5f-4480-9954-8e301c4f4af6" RegularExpression="获取">
+      <Trigger Enabled="false" Sequential="True" Name="获取自己坐标" Id="becbc02d-cb5f-4480-9954-8e301c4f4af6" RegularExpression="获取">
         <Actions>
-          <Action OrderNumber="1" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="x" VariableExpression="${_ffxivparty[${_ffxivplayer}].x}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+          <Action OrderNumber="1" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="x" VariableExpression="${_ffxivparty[${_ffxivplayer}].x}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Variable">
             <Condition Enabled="false" Grouping="Or" />
-            <Conditions />
           </Action>
-          <Action OrderNumber="2" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="y" VariableExpression="${_ffxivparty[${_ffxivplayer}].y}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+          <Action OrderNumber="2" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="y" VariableExpression="${_ffxivparty[${_ffxivplayer}].y}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Variable">
             <Condition Enabled="false" Grouping="Or" />
-            <Conditions />
           </Action>
-          <Action OrderNumber="3" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="z" VariableExpression="${_ffxivparty[${_ffxivplayer}].z}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Variable">
+          <Action OrderNumber="3" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="z" VariableExpression="${_ffxivparty[${_ffxivplayer}].z}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Variable">
             <Condition Enabled="false" Grouping="Or" />
-            <Conditions />
           </Action>
-          <Action OrderNumber="4" LogLevel="-1" NamedCallbackName="DoTextCommand" NamedCallbackParam="/zoom mouse ${var:x},${var:y},${var:z}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="NamedCallback">
+          <Action OrderNumber="4" LogLevel="-1" NamedCallbackName="DoTextCommand" NamedCallbackParam="/zoom mouse ${var:x},${var:y},${var:z}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="NamedCallback">
             <Condition Enabled="false" Grouping="Or" />
-            <Conditions />
           </Action>
         </Actions>
         <Condition Enabled="false" Grouping="Or" />
-        <Conditions />
       </Trigger>
-      <Trigger Enabled="true" Name="获取2" Id="6f5f31f8-6a8a-43c2-af06-89b0826afbf7" RegularExpression="^.{15}00:0001:坐标X:(?&lt;x&gt;.*?) Y:(?&lt;y&gt;.*?)$">
+      <Trigger Enabled="true" Sequential="True" Name="移动鼠标" Id="6f5f31f8-6a8a-43c2-af06-89b0826afbf7" RegularExpression="^.{15}00:0001:坐标X:(?&lt;x&gt;.*?) Y:(?&lt;y&gt;.*?)$">
         <Actions>
-          <Action OrderNumber="1" LogLevel="-1" MouseX="${x}" MouseY="${y}" TextAuraFontSize="9" TextAuraFontName="宋体" ActionType="Mouse">
+          <Action OrderNumber="1" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/ac 提钩" NamedCallbackName="DoTextCommand" NamedCallbackParam="${var:action}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="NamedCallback">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+          <Action OrderNumber="2" LogLevel="-1" MouseX="${x}" MouseY="${y}+${pvar:title}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Mouse">
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Action>
+          <Action OrderNumber="3" LogLevel="-1" MouseOpType="LeftClick" MouseX="${x}" MouseY="${y}+${pvar:title}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Mouse" ExecutionDelayExpression="1">
             <Condition Enabled="false" Grouping="Or" />
             <Conditions />
           </Action>
         </Actions>
         <Condition Enabled="false" Grouping="Or" />
-        <Conditions />
+      </Trigger>
+      <Trigger Enabled="true" Name="获取标题栏大小" Id="fcf17a94-40b2-4f89-9a9a-c7d14bf2d899" RegularExpression="^.{15}00:(0001|0038):title size:(?&lt;size&gt;.*?)$">
+        <Actions>
+          <Action OrderNumber="1" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetNumeric" VariableName="title" VariableExpression="${size}" VariablePersist="True" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Variable">
+            <Condition Enabled="false" Grouping="Or" />
+          </Action>
+        </Actions>
+        <Condition Enabled="false" Grouping="Or" />
+      </Trigger>
+      <Trigger Enabled="true" Name="获取要释放技能" Id="d94ddc6c-c335-483b-9edc-2db84d76e894" RegularExpression="^.{15}00:0038:action (?&lt;action&gt;.*?)$">
+        <Actions>
+          <Action OrderNumber="1" LogLevel="-1" MouseX="" MouseY="" VariableOp="SetString" VariableName="action" VariableExpression="${action}" TextAuraFontSize="9" TextAuraFontName="宋体" PartyOrderPlayerName="" PartyOrderPartyOrder="" ActionType="Variable">
+            <Condition Enabled="false" Grouping="Or" />
+          </Action>
+        </Actions>
+        <Condition Enabled="false" Grouping="Or" />
       </Trigger>
     </Triggers>
   </ExportedFolder>
