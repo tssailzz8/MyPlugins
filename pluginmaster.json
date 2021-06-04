@@ -4,7 +4,7 @@
         "Name": "DrawCure",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622562141"
+        "LastUpdated": "1622819725"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.3",
+        "AssemblyVersion": "1.1.0.5",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -34,14 +34,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1621438306"
+        "LastUpdated": "1622819777"
     },
     {
         "Author": "NR",
         "Name": "Zoom",
         "Description": "Set max zoom",
         "InternalName": "Zoom",
-        "AssemblyVersion": "1.0.0.9",
+        "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -54,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622562189"
+        "LastUpdated": "1622736538"
     }
 ]
