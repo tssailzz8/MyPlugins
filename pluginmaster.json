@@ -21,14 +21,14 @@
     },
     {
         "Author": "",
-        "Name": "DrawCure",
+        "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
         "InternalName": "DrawCure",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
-            "DrawCure"
+            "Lock"
         ],
         "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
