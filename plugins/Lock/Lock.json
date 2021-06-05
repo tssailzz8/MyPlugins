@@ -1,9 +1,9 @@
 {
   "Author": "",
   "Name": "DrawCure",
-  "Description": "显示治疗范围",
+  "Description": "锁定BOSS",
   "InternalName": "DrawCure",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.0",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "DrawCure" ],
