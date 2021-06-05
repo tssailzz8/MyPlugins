@@ -23,7 +23,7 @@
         "Author": "",
         "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
-        "InternalName": "DrawCure",
+        "InternalName": "Lock",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
@@ -31,13 +31,13 @@
             "Lock"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622886241"
+        "LastUpdated": "1622886684"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
