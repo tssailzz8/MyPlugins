@@ -24,7 +24,7 @@
         "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622886684"
+        "LastUpdated": "1622895335"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
