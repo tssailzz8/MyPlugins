@@ -4,7 +4,7 @@
         "Name": "DrawCure",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "1.0.0.7",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622966345"
+        "LastUpdated": "1622967936"
     },
     {
         "Author": "",
         "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622966397"
+        "LastUpdated": "1622967968"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",

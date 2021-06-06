@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502f6dbd-9040-4d4d-aea8-4fb9ee71241d" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pluginmaster.json" beforeDir="false" afterPath="$PROJECT_DIR$/pluginmaster.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/DrawCure/DrawCure.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/DrawCure/DrawCure.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/DrawCure/latest.zip" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/DrawCure/latest.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/Lock/Lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/Lock/Lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/Lock/latest.zip" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/Lock/latest.zip" afterDir="false" />
     </list>
