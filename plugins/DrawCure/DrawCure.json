@@ -3,7 +3,7 @@
   "Name": "DrawCure",
   "Description": "显示治疗范围",
   "InternalName": "DrawCure",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.6",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "DrawCure" ],

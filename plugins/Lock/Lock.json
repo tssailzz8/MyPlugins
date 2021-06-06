@@ -3,7 +3,7 @@
   "Name": "Lock",
   "Description": "锁定BOSS",
   "InternalName": "Lock",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Lock" ],
