@@ -40,11 +40,31 @@
         "LastUpdated": "1623410197"
     },
     {
+        "Author": "",
+        "Name": "Lock",
+        "Description": "SeeBuff",
+        "InternalName": "SeeBuff",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "SeeBuff"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1625887337"
+    },
+    {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.6",
+        "AssemblyVersion": "1.1.0.7",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -54,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1624083729"
+        "LastUpdated": "1625887380"
     },
     {
         "Author": "NR",

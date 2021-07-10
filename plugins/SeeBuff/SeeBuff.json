@@ -1,0 +1,11 @@
+{
+  "Author": "",
+  "Name": "Lock",
+  "Description": "SeeBuff",
+  "InternalName": "SeeBuff",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "",
+  "ApplicableVersion": "any",
+  "Tags": [ "SeeBuff" ],
+  "DalamudApiLevel": 3
+}
