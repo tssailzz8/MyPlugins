@@ -24,7 +24,7 @@
         "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1623410197"
+        "LastUpdated": "1626015689"
     },
     {
         "Author": "",
