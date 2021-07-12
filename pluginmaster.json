@@ -44,7 +44,7 @@
         "Name": "SeeBuff",
         "Description": "SeeBuff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626004804"
+        "LastUpdated": "1626094479"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
