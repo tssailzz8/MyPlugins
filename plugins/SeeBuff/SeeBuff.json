@@ -1,9 +1,9 @@
 {
   "Author": "",
   "Name": "SeeBuff",
-  "Description": "SeeBuff",
+  "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "InternalName": "SeeBuff",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.0.0.5",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "SeeBuff" ],

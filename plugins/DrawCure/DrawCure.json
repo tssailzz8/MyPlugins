@@ -1,9 +1,9 @@
 {
   "Author": "",
   "Name": "DrawCure",
-  "Description": "显示治疗范围",
+  "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围",
   "InternalName": "DrawCure",
-  "AssemblyVersion": "1.0.0.7",
+  "AssemblyVersion": "1.0.0.8",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "DrawCure" ],

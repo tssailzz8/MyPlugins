@@ -2,9 +2,9 @@
     {
         "Author": "",
         "Name": "DrawCure",
-        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
+        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.7",
+        "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622967936"
+        "LastUpdated": "1627136134"
     },
     {
         "Author": "",
@@ -42,9 +42,9 @@
     {
         "Author": "",
         "Name": "SeeBuff",
-        "Description": "SeeBuff",
+        "Description": "SeeBuff/n \u80fd\u901a\u8fc7/SeeBuff ID buffid time \u6765\u81ea\u5b9a\u4e49\u663e\u793abuff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -57,14 +57,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626094479"
+        "LastUpdated": "1627136496"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.7",
+        "AssemblyVersion": "1.1.0.8",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -74,14 +74,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625887380"
+        "LastUpdated": "1627136168"
     },
     {
         "Author": "NR",
         "Name": "Zoom",
         "Description": "Set max zoom",
         "InternalName": "Zoom",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622736538"
+        "LastUpdated": "1627136207"
     }
 ]
