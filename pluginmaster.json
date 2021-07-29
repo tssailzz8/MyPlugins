@@ -2,9 +2,9 @@
     {
         "Author": "",
         "Name": "DrawCure",
-        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4",
+        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.8",
+        "AssemblyVersion": "1.0.0.9",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627136134"
+        "LastUpdated": "1627575851"
     },
     {
         "Author": "",
         "Name": "Lock",
         "Description": "\u9501\u5b9aBOSS",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "1.0.0.7",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626018239"
+        "LastUpdated": "1627575803"
     },
     {
         "Author": "",
