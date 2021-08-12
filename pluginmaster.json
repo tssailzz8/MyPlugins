@@ -4,7 +4,7 @@
         "Name": "DrawCure",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.9",
+        "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627575851"
+        "LastUpdated": "1628770503"
     },
     {
         "Author": "",
@@ -44,7 +44,7 @@
         "Name": "SeeBuff",
         "Description": "SeeBuff/n \u80fd\u901a\u8fc7/SeeBuff ID buffid time \u6765\u81ea\u5b9a\u4e49\u663e\u793abuff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "1.0.0.6",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -57,14 +57,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627136496"
+        "LastUpdated": "1628770554"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.8",
+        "AssemblyVersion": "1.1.0.9",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -74,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627136168"
+        "LastUpdated": "1628770597"
     },
     {
         "Author": "NR",
