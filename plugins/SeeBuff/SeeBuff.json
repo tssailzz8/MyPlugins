@@ -3,7 +3,7 @@
   "Name": "SeeBuff",
   "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "InternalName": "SeeBuff",
-  "AssemblyVersion": "1.0.0.6",
+  "AssemblyVersion": "1.0.0.7",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "SeeBuff" ],
