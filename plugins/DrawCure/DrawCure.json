@@ -3,7 +3,7 @@
   "Name": "DrawCure",
   "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围\n通过/DrawCure help获取更多信息",
   "InternalName": "DrawCure",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "DrawCure" ],
