@@ -44,7 +44,7 @@
         "Name": "SeeBuff",
         "Description": "SeeBuff/n \u80fd\u901a\u8fc7/SeeBuff ID buffid time \u6765\u81ea\u5b9a\u4e49\u663e\u793abuff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.0.7",
+        "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628996207"
+        "LastUpdated": "1629517226"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
