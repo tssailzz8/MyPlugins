@@ -22,7 +22,7 @@
     {
         "Author": "",
         "Name": "Lock",
-        "Description": "\u9501\u5b9aBOSS",
+        "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a",
         "InternalName": "Lock",
         "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628995604"
+        "LastUpdated": "1629728252"
     },
     {
         "Author": "",
