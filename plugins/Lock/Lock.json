@@ -3,7 +3,7 @@
   "Name": "Lock",
   "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪",
   "InternalName": "Lock",
-  "AssemblyVersion": "1.0.0.8",
+  "AssemblyVersion": "1.0.0.9",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Lock" ],
