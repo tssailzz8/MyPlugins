@@ -1,23 +1,40 @@
 [
     {
-        "Author": "",
-        "Name": "DrawCure",
-        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
-        "InternalName": "DrawCure",
+        "Author": "NR",
+        "Name": "Zoom",
+        "Description": "Set max zoom",
+        "InternalName": "Zoom",
         "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
-            "DrawCure"
+            "Zoom"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628995752"
+        "LastUpdated": "1631367393"
+    },
+    {
+        "Author": "attick, daemitus, alymphocyte, grammernatzi",
+        "Name": "XIV Combo Expandedest",
+        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
+        "InternalName": "XIVComboExpandedest",
+        "AssemblyVersion": "1.1.0.9",
+        "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1631367393"
     },
     {
         "Author": "",
@@ -31,13 +48,13 @@
             "Lock"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630239659"
+        "LastUpdated": "1631367393"
     },
     {
         "Author": "",
@@ -51,49 +68,32 @@
             "SeeBuff"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629545656"
+        "LastUpdated": "1631367393"
     },
     {
-        "Author": "attick, daemitus, alymphocyte, grammernatzi",
-        "Name": "XIV Combo Expandedest",
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.1.0.9",
-        "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1631022956"
-    },
-    {
-        "Author": "NR",
-        "Name": "Zoom",
-        "Description": "Set max zoom",
-        "InternalName": "Zoom",
+        "Author": "",
+        "Name": "DrawCure",
+        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
+        "InternalName": "DrawCure",
         "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
-            "Zoom"
+            "DrawCure"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627136207"
+        "LastUpdated": "1631367393"
     }
 ]
