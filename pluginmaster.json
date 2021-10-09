@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631376638"
+        "LastUpdated": "1631447742"
     },
     {
         "Author": "attick, daemitus",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631376638"
+        "LastUpdated": "1631447742"
     },
     {
         "Author": "",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631376638"
+        "LastUpdated": "1631447742"
     },
     {
         "Author": "",
@@ -77,13 +77,13 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631376638"
+        "LastUpdated": "1631447742"
     },
     {
         "Author": "",
         "Name": "DrawCure",
         "Punchline": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
-        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
+        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n/DrawCure find\u5728\u5c4f\u5e55\u4e0a\u548c\u60f3\u627e\u5230\u7684\u4eba\u5212\u7ebf,\u4f8b\u5982/DrawCure find \u6728\u4eba\n\u662f\u5728\u4f60\u548c\u6700\u8fd1\u7684\u6728\u4eba\u95f4\u8bdd\u4e00\u6761\u767d\u7ebf\uff0c\u6301\u7eed20s\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
         "InternalName": "DrawCure",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
@@ -97,6 +97,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631376638"
+        "LastUpdated": "1631447742"
     }
 ]
