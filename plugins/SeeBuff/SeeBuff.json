@@ -1,11 +1,14 @@
 {
   "Author": "",
   "Name": "SeeBuff",
-  "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "InternalName": "SeeBuff",
-  "AssemblyVersion": "1.0.1.0",
-  "RepoUrl": "",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "ApplicableVersion": "any",
-  "Tags": [ "SeeBuff" ],
-  "DalamudApiLevel": 3
+  "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/SeeBuff/1-%E5%9B%BE%E7%89%87.png",
+  "Punchline": "buff显示"
 }

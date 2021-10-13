@@ -1,11 +1,14 @@
 {
   "Author": "",
   "Name": "Lock",
-  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪",
   "InternalName": "Lock",
-  "AssemblyVersion": "1.0.1.0",
-  "RepoUrl": "",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪",
   "ApplicableVersion": "any",
-  "Tags": [ "Lock" ],
-  "DalamudApiLevel": 3
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/2-%E5%9B%BE%E7%89%87.png",
+  "Punchline": "锁定"
 }

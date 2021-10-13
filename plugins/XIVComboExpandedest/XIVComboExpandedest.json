@@ -1,11 +1,14 @@
 {
-  "Author": "attick, daemitus, alymphocyte, grammernatzi",
-  "Name": "XIV Combo Expandedest",
+  "Author": "attick, daemitus",
+  "Name": "XIVComboExpandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.1.1.0",
-  "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/icon.png",
+  "Punchline": "1-1-1."
 }

@@ -1,11 +1,14 @@
 {
-	"Author": "NR",
-	"Name": "Zoom",
-	"InternalName": "Zoom",
-	"Description": "Set max zoom",
-	"Tags": ["Zoom"],
-	"RepoUrl": "",
-	"AssemblyVersion": "1.0.1.1",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel": 3
+  "Author": "",
+  "Name": "Zoom",
+  "InternalName": "Zoom",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Set max zoom",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "视距"
 }
