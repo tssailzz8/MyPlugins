@@ -4,7 +4,7 @@ on:
   push:
     branches:
     - master
-    - api4
+    - self
 concurrency: regenerate
 jobs:
   generate:
