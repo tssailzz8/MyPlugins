@@ -9,6 +9,6 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
+  "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
   "Punchline": "显示治疗范围"
 }
