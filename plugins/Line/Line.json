@@ -3,12 +3,12 @@
   "Name": "Zoom",
   "InternalName": "Zoom",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "Set max zoom",
+  "Description": "Line",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "",
-  "Punchline": "视距"
+  "Punchline": "圈"
 }
