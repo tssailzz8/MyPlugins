@@ -1,9 +1,9 @@
-{
+﻿{
   "Author": "",
   "Name": "SomethingNeedDoingest",
   "InternalName": "SomethingNeedDoingest",
   "AssemblyVersion": "1.0.0.1",
-  "Description": "SomethingNeedDoingest",
+  "Description": "增加/count和/repair",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 4,
