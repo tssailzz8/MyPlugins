@@ -1,0 +1,14 @@
+﻿{
+  "Author": "",
+  "Name": "SomethingNeedDoingest",
+  "InternalName": "SomethingNeedDoingest",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "SomethingNeedDoingest",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "增加/count和/repair"
+}
