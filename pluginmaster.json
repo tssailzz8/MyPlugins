@@ -17,7 +17,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Lifu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Lifu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634388318"
+        "LastUpdated": "1634389052"
+    },
+    {
+        "Author": "",
+        "Name": "SomethingNeedDoingest",
+        "Punchline": "\u5feb",
+        "Description": "SomethingNeedDoingest",
+        "InternalName": "SomethingNeedDoingest",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/SomethingNeedDoingest/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/SomethingNeedDoingest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/SomethingNeedDoingest/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1634389052"
     },
     {
         "Author": "",
@@ -37,6 +57,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634388318"
+        "LastUpdated": "1634389052"
     }
 ]
