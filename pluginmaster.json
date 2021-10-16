@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "",
+        "Name": "Line",
+        "Punchline": "\u5708",
+        "Description": "Line",
+        "InternalName": "Line",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1634132713"
+    }
+]
