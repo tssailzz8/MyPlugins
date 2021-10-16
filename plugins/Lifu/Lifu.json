@@ -1,0 +1,14 @@
+{
+  "Author": "",
+  "Name": "Lifu",
+  "InternalName": "Lifu",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Lifu",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "Lifu"
+}
