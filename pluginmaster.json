@@ -5,7 +5,7 @@
         "Punchline": "buff\u663e\u793a",
         "Description": "SeeBuff/n \u80fd\u901a\u8fc7/SeeBuff ID buffid time \u6765\u81ea\u5b9a\u4e49\u663e\u793abuff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635212923"
+        "LastUpdated": "1635249402"
     },
     {
         "Author": "attick, daemitus",
@@ -25,7 +25,7 @@
         "Punchline": "1-1-1.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635212923"
+        "LastUpdated": "1635249402"
     },
     {
         "Author": "",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635212923"
+        "LastUpdated": "1635249402"
     },
     {
         "Author": "",
@@ -77,7 +77,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635212923"
+        "LastUpdated": "1635249402"
     },
     {
         "Author": "",
@@ -97,6 +97,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635212923"
+        "LastUpdated": "1635249402"
     }
 ]
