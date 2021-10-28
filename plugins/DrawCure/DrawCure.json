@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "DrawCure",
   "InternalName": "DrawCure",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围\n/DrawCure find在屏幕上和想找到的人划线,例如/DrawCure find 木人\n是在你和最近的木人间话一条白线，持续20s\n通过/DrawCure help获取更多信息",
   "ApplicableVersion": "any",
   "RepoUrl": "",
