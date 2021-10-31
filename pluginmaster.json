@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635513345"
+        "LastUpdated": "1635655116"
     },
     {
         "Author": "attick, daemitus",
@@ -37,7 +37,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635513345"
+        "LastUpdated": "1635655116"
+    },
+    {
+        "Author": "",
+        "Name": "SeletRollItem",
+        "Punchline": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
+        "Description": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
+        "InternalName": "SeletRollItem",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1635655116"
     },
     {
         "Author": "",
@@ -57,7 +77,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635513345"
+        "LastUpdated": "1635655116"
     },
     {
         "Author": "",
@@ -77,13 +97,13 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635513345"
+        "LastUpdated": "1635655116"
     },
     {
         "Author": "",
         "Name": "Lock",
         "Punchline": "\u9501\u5b9a",
-        "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a\n/LockBOSS qi\u80fd\u516c\u5171\u9a91\u4e58\uff0c\u9ed8\u8ba41\u53f7\u4f4d,/LockBOSS qi 2\u5ea7\u4e0a2\u53f7\u4f4d",
+        "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a\n/LockBOSS qi\u9a91\u4e0a\u6700\u8fd1\u7684\u4eba\n/LockBOSS cai\u91c7\u96c6\u6700\u8fd1\u7684\u77ff",
         "InternalName": "Lock",
         "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "",
@@ -97,6 +117,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635513345"
+        "LastUpdated": "1635655116"
     }
 ]
