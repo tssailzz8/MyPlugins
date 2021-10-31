@@ -1,0 +1,14 @@
+{
+  "Author": "",
+  "Name": "SeletRollItem",
+  "InternalName": "SeletRollItem",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃"
+}

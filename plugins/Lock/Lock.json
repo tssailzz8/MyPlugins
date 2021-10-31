@@ -3,7 +3,7 @@
   "Name": "Lock",
   "InternalName": "Lock",
   "AssemblyVersion": "1.0.0.2",
-  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪\n/LockBOSS qi能公共骑乘，默认1号位,/LockBOSS qi 2座上2号位",
+  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 4,
