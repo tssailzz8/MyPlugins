@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "SeletRollItem",
   "InternalName": "SeletRollItem",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
   "ApplicableVersion": "any",
   "RepoUrl": "",
