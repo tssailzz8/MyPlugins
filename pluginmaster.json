@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     },
     {
         "Author": "",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     },
     {
         "Author": "",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     },
     {
         "Author": "attick, daemitus",
@@ -77,7 +77,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     },
     {
         "Author": "",
@@ -85,7 +85,7 @@
         "Punchline": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
         "Description": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03\n\u4f7f\u7528/SeletRollItem pai\u80fd\u6392\u76f8\u5173\u526f\u672c\u7406\u7b26/SeletRollItem pai \u968f\u673a\u4efb\u52a1\uff1a\u7ec3\u7ea7\u6392\u7ec3\u7ea7\u672c",
         "InternalName": "SeletRollItem",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -97,7 +97,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     },
     {
         "Author": "",
@@ -117,6 +117,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635950694"
+        "LastUpdated": "1636041023"
     }
 ]
