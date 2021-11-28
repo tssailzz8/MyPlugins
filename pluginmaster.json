@@ -3,9 +3,9 @@
         "Author": "",
         "Name": "Lifu",
         "Punchline": "Lifu",
-        "Description": "\u505a\u5b8c\u4e00\u8f6e/Lifu kai\u5f00\u542f /Lifu ai\u548c/Lifu mo\u9009\u53d6",
+        "Description": "/Lifu kai\u5f00\u542f /Lifu ai\u548c/Lifu mo\u9009\u53d6",
         "InternalName": "Lifu",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -17,7 +17,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Lifu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Lifu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634389410"
+        "LastUpdated": "1638115715"
+    },
+    {
+        "Author": "",
+        "Name": "Line",
+        "Punchline": "\u5708",
+        "Description": "Line",
+        "InternalName": "Line",
+        "AssemblyVersion": "1.0.0.2",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1638115715"
     },
     {
         "Author": "",
@@ -37,26 +57,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/SomethingNeedDoingest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/SomethingNeedDoingest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634389410"
-    },
-    {
-        "Author": "",
-        "Name": "Line",
-        "Punchline": "\u5708",
-        "Description": "Line",
-        "InternalName": "Line",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/self/plugins/Line/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1634389410"
+        "LastUpdated": "1638115715"
     }
 ]
