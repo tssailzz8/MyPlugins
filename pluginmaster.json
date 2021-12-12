@@ -5,7 +5,7 @@
         "Punchline": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n/DrawCure find\u5728\u5c4f\u5e55\u4e0a\u548c\u60f3\u627e\u5230\u7684\u4eba\u5212\u7ebf,\u4f8b\u5982/DrawCure find \u6728\u4eba\n\u662f\u5728\u4f60\u548c\u6700\u8fd1\u7684\u6728\u4eba\u95f4\u8bdd\u4e00\u6761\u767d\u7ebf\uff0c\u6301\u7eed20s\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
         "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "Kouzukii",
         "Name": "Death Recap",
         "Description": "See what killed you!",
         "InternalName": "DeathRecap",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DeathRecap/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DeathRecap/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "",
@@ -74,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "",
@@ -94,7 +94,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "",
@@ -114,7 +114,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     },
     {
         "Author": "attick, daemitus",
@@ -122,7 +122,7 @@
         "Punchline": "1-1-1.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -134,6 +134,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639150038"
+        "LastUpdated": "1639284334"
     }
 ]
