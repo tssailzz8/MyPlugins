@@ -3,7 +3,7 @@
   "Name": "Lock",
   "InternalName": "Lock",
   "AssemblyVersion": "1.0.0.5",
-  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿",
+  "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,/LockBOSS change 1 靠近水晶切换1号线路",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 5,
