@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "attick, daemitus",
@@ -65,7 +65,7 @@
         "Punchline": "1-1-1.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "1.0.0.7",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -77,7 +77,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "",
@@ -97,7 +97,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "",
@@ -105,7 +105,7 @@
         "Punchline": "\u9501\u5b9a",
         "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a\n/LockBOSS qi\u9a91\u4e0a\u6700\u8fd1\u7684\u4eba\n/LockBOSS cai\u91c7\u96c6\u6700\u8fd1\u7684\u77ff,/LockBOSS change 1 \u9760\u8fd1\u6c34\u6676\u5207\u63621\u53f7\u7ebf\u8def",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "1.0.0.6",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -117,7 +117,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "Kouzukii",
@@ -134,7 +134,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DeathRecap/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DeathRecap/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     },
     {
         "Author": "",
@@ -154,6 +154,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639672284"
+        "LastUpdated": "1640010632"
     }
 ]
