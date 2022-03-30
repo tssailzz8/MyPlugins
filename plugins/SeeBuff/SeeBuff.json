@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "SeeBuff",
   "InternalName": "SeeBuff",
-  "AssemblyVersion": "1.0.0.9",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
