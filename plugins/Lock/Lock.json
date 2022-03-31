@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "Lock",
   "InternalName": "Lock",
-  "AssemblyVersion": "1.0.1.1",
+  "AssemblyVersion": "1.0.1.2",
   "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,",
   "ApplicableVersion": "any",
   "RepoUrl": "",
