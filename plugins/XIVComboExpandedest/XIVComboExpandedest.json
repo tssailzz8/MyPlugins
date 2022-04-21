@@ -6,7 +6,7 @@
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/XIVComboExpandedest/icon.png",

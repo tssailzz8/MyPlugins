@@ -6,7 +6,7 @@
   "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/1-%E5%9B%BE%E7%89%87.png",
