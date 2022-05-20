@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "Zoom",
   "InternalName": "Zoom",
-  "AssemblyVersion": "1.0.0.3",
+  "AssemblyVersion": "1.0.0.4",
   "Description": "/zoom set设置视距,/zoom freecam进入自由相机",
   "ApplicableVersion": "any",
   "RepoUrl": "",
