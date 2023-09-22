@@ -2,7 +2,7 @@
   "Author": "",
   "Name": "AutoFaka",
   "InternalName": "AutoFaka",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.6",
  "Description": "能自动发卡和抽卡并查看dps\n//faka dixing把地星放在中场，/faka liyi把礼仪之花放在中间，/faka chong自动帮你重抽,",
   "ApplicableVersion": "any",
   "RepoUrl": "",
