@@ -1,0 +1,21 @@
+{
+  "Author": "Usagi",
+  "Name": "IINACT",
+  "InternalName": "IINACT",
+  "AssemblyVersion": "2.1.3.9",
+  "Description": "能在replay里面使用的和使用edgetts的加强版",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/tssailzz8/IINACT",
+  "Tags": [
+    "parsing",
+    "plugin",
+    "ACT"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+  "Punchline": "A parsing plugin.",
+  "AcceptsFeedback": true
+}

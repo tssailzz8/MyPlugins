@@ -1,0 +1,16 @@
+{
+  "Author": "牙刷play",
+  "Name": "SeeBoss",
+  "InternalName": "SeeBoss",
+  "AssemblyVersion": "1.0.0.4",
+  "Description": "方便查看buffid和bossid和技能id",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "A parsing plugin.",
+  "AcceptsFeedback": true
+}
