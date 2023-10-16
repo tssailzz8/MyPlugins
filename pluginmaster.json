@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -37,14 +37,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
         "Name": "LiFu",
         "Description": "\u793c\u670d",
         "InternalName": "LiFu",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -56,7 +56,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "\u7259\u5237play",
@@ -75,7 +75,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeeBoss/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeeBoss/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -94,7 +94,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/AutoFaka/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/AutoFaka/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -113,7 +113,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/DDD/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/DDD/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -133,7 +133,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -153,7 +153,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -173,7 +173,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -193,7 +193,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "",
@@ -201,7 +201,7 @@
         "Punchline": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
         "Description": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03\n\u4f7f\u7528/SeletRollItem pai\u80fd\u6392\u76f8\u5173\u526f\u672c\u7406\u7b26/SeletRollItem pai \u968f\u673a\u4efb\u52a1\uff1a\u7ec3\u7ea7\u6392\u7ec3\u7ea7\u672c",
         "InternalName": "SeletRollItem",
-        "AssemblyVersion": "1.0.1.6",
+        "AssemblyVersion": "1.0.1.7",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -213,7 +213,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     },
     {
         "Author": "Usagi",
@@ -237,6 +237,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/IINACT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/IINACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697467486"
+        "LastUpdated": "1697470901"
     }
 ]
