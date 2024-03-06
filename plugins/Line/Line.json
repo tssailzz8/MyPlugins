@@ -6,7 +6,7 @@
   "Description": "查看身为线和狩猎怪",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "",
