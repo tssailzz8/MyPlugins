@@ -6,7 +6,7 @@
   "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/2-%E5%9B%BE%E7%89%87.png",

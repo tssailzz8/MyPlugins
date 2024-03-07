@@ -1,14 +1,14 @@
 {
   "Author": "",
-  "Name": "Line",
-  "InternalName": "Line",
-  "AssemblyVersion": "1.0.1.4",
-  "Description": "查看身为线和狩猎怪",
+  "Name": "LiFu",
+  "InternalName": "LiFu",
+  "AssemblyVersion": "1.0.0.5",
+  "Description": "礼服",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 9,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "",
-  "Punchline": ""
+  "PunchLiFu": ""
 }
