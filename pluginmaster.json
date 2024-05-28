@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "\u7259\u5237play",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
@@ -74,7 +74,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
@@ -94,7 +94,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
@@ -114,7 +114,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "Usagi",
@@ -138,7 +138,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
@@ -158,25 +158,29 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     },
     {
         "Author": "",
         "Name": "LiFu",
-        "Description": "\u793c\u670d",
+        "Punchline": "LiFu",
+        "Description": "LiFu",
+        "Changelog": "Updated for API4",
         "InternalName": "LiFu",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "1.1.2.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IconUrl": "",
-        "ImageUrls": [],
+        "ImageUrls": [
+            ""
+        ],
         "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/LiFu/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712673070"
+        "LastUpdated": "1713099880"
     }
 ]
