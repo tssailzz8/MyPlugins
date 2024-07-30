@@ -1,0 +1,14 @@
+{
+  "Author": "",
+  "Name": "DDD",
+  "InternalName": "DDD",
+  "AssemblyVersion": "1.0.1.2",
+ "Description": "发送数据到inact",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 10,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "PunchAutoFaka": ""
+}
