@@ -11,7 +11,7 @@
     "plugin",
     "ACT"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,

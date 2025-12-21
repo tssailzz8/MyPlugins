@@ -1,16 +1,14 @@
 {
-  "Author": "牙刷play",
-  "Name": "SeeBoss",
-  "InternalName": "SeeBoss",
-  "AssemblyVersion": "1.0.0.6",
-  "Description": "方便查看buffid和bossid和技能id",
+  "Author": "",
+  "Name": "DDD",
+  "InternalName": "DDD",
+  "AssemblyVersion": "1.0.1.2",
+ "Description": "发送数据到inact",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "DalamudApiLevel": 9,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
+  "DalamudApiLevel": 14,
   "LoadPriority": 0,
+  "ImageUrls": [],
   "IconUrl": "",
-  "Punchline": "A parsing plugin.",
-  "AcceptsFeedback": true
+  "PunchAutoFaka": ""
 }
