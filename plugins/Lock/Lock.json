@@ -3,12 +3,12 @@
   "Name": "Lock",
   "InternalName": "Lock",
   "AssemblyVersion": "1.0.3.0",
-  "Description": "Ëø¶¨BOSS /LockBOSS change 1 ¿¿½üË®¾§ÇĞ»»1ºÅÏßÂ·",
+  "Description": "é”å®šBOSS /LockBOSS change 1 é è¿‘æ°´æ™¶åˆ‡æ¢1å·çº¿è·¯",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 14,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/2-%E5%9B%BE%E7%89%87.png",
-  "Punchline": "Ëø¶¨"
+  "Punchline": "é”å®š"
 }

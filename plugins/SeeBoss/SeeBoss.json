@@ -1,9 +1,9 @@
 {
-  "Author": "牙刷play",
+  "Author": "鐗欏埛play",
   "Name": "SeeBoss",
   "InternalName": "SeeBoss",
   "AssemblyVersion": "1.0.0.7",
-  "Description": "方便查看buffid和bossid和技能id",
+  "Description": "鏂逛究鏌ョ湅buffid鍜宐ossid鍜屾妧鑳絠d",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 14,
