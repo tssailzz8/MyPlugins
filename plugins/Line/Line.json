@@ -1,17 +1,14 @@
 {
   "Author": "",
   "Name": "Line",
-  "Punchline": "Line",
-  "Description": "Line",
-  "IconUrl": "",
-  "ImageUrls": [
-    ""
-  ],
-  "RepoUrl": "",
   "InternalName": "Line",
-  "AssemblyVersion": "",
+  "AssemblyVersion": "1.0.1.5",
+  "Description": "查看身为线和狩猎怪",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 12,
+  "RepoUrl": "",
+  "DalamudApiLevel": 14,
   "LoadPriority": 0,
-  "Changelog": "Updated for API5"
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": ""
 }
